@@ -2,6 +2,7 @@ const CHANNELS = [
   { name: 'web', emoji: '🌐' },
   { name: 'crypto', emoji: '🔐' },
   { name: 'forensics', emoji: '🔍' },
+  { name: 'networking', emoji: '📡' },
   { name: 'pwn', emoji: '💻' },
   { name: 'rev', emoji: '🔧' },
   { name: 'misc', emoji: '🎲' },
